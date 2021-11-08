@@ -11,8 +11,8 @@ Per CDC data as of August 18, 2021, people from 12 to 50 years old are exposed t
 ![Myopericarditis Risks](assets/myopericarditis-risks.png)
 
 References: 
-https://www.cdc.gov/vaccines/acip/meetings/downloads/slides-2021-08-30/03-COVID-Su-508.pdf
-https://en.wikipedia.org/wiki/Myopericarditis
+- https://www.cdc.gov/vaccines/acip/meetings/downloads/slides-2021-08-30/03-COVID-Su-508.pdf
+- https://en.wikipedia.org/wiki/Myopericarditis
 
 
 #### Death Rates for Vaccinated vs Unvaccinated
@@ -22,7 +22,7 @@ On October 7, 2021, the death toll after vaccination in Taiwan reached 852, whil
 ![Taiwan Vaccination](assets/taiwan-vaccination.png)
 
 References: 
-https://medicaltrend.org/2021/10/10/taiwan-death-from-covid-19-vaccination-exceeds-death-from-covid-19/ 
+- https://medicaltrend.org/2021/10/10/taiwan-death-from-covid-19-vaccination-exceeds-death-from-covid-19/ 
 
 
 Covid-19 infection death rate is 0.03% for 35 year old. See your age group below. Covid-19 survival rate is 99.99%.
@@ -30,7 +30,7 @@ Covid-19 infection death rate is 0.03% for 35 year old. See your age group below
 ![Covid Death Rate](assets/covid-death-rate.png)
 
 References:
-https://www.medrxiv.org/content/10.1101/2021.07.08.21260210v1
+- https://www.medrxiv.org/content/10.1101/2021.07.08.21260210v1
 
 
 #### Increased Hospitalizion of Vaccinated
@@ -44,7 +44,7 @@ Even though vaccinations offers protection to individuals against severe hospita
 ![Increased Hospitalizion of Vaccinated 2](assets/increased-hospitalizion-of-vaccinated-2.png)
 
 References: 
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8481107/
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8481107/
 
 #### More Covid-19 Cases in Highly Vaccinated Countries
 
@@ -55,16 +55,16 @@ National Institutes of Health states, at the country-level, there appears to be 
 ![Vaccinated to Higher Covid 2](assets/vaccinated-to-higher-covid-2.png)
 
 References: 
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8481107/
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8481107/
 
-##### Vaccine Effectiveness Concern
+#### Vaccine Effectiveness Concern
 
 Protection against SARS-CoV-2 infection appeared to wane rapidly following its peak after the second dose, but protection against hospitalization and death persisted at a robust level for 6 months after the second dose.
 
 ![Vaccine Effectiveness](assets/vaccine-effectiveness.png)
 
 References:
-https://www.nejm.org/doi/full/10.1056/NEJMoa2114114
+- https://www.nejm.org/doi/full/10.1056/NEJMoa2114114
 
 All deaths reported to VAERS by year is significantly increased in 2021
 
@@ -75,14 +75,41 @@ VAERS reports 17K+ Covid vaccine deaths, 83K+ hospitalizations, 92K urgent care 
 ![Vaccine Effectiveness](assets/vaers-covid-vaccine-report.png)
 
 References:
-https://openvaers.com/covid-data
+- https://openvaers.com/covid-data
 
 
-##### Meeting of the COVID-19 Giants with Geert Vanden Bossche and Robert Malone MD
+#### Meeting of the COVID-19 Giants with Geert Vanden Bossche and Robert Malone MD
 
 Discussion between two stalwarts in the COVID-19 pandemic. Both men have taken an ethical stand to focus on science and not be afraid to share their expertise.
 
 ![Meeting Covid Giants](assets/meeting-covid-giants.png)
 
 References: 
-https://www.youtube.com/watch?v=qP31cfD3YOY
+- https://www.youtube.com/watch?v=qP31cfD3YOY
+
+
+#### Florida Summit on COVID
+
+The Florida Summit on COVID included doctors from throughout the U.S. who discussed the vaccines, natural immunity in those who previously had the virus, vaccine mandates and related topics. Some takeaways are:
+- Under no circumstances children should be vaccinated. 
+  - Children are not in high risk but, if vaccinated, they have higher risks of heart disease - myopericarditis.
+- Do not vaccinate those who was sick with COVID-19 virus. 
+  - Natural immunity is superior to vaccines and lasts much longer.
+- CDC and government should not interfere with doctors' treatments agaist COVID infections. 
+
+![Florida Summit Covid](assets/florida-summit-covid.jpeg)
+
+References:
+- https://www.youtube.com/watch?v=AOAdIYxvSYU
+
+
+### Agenda Behind COVID-19
+
+Thierry Baudet's speech in Dutch parliament about the agenda behind COVID-19 touches multiple points and is a great summary of COVID agenda. 
+
+![Covid Agenda](assets/covid-agenda.png)
+
+References:
+- https://www.youtube.com/watch?v=iAxuvTzWJLY
+- [Translated Transcript] https://ordomedicus.org/thierry-baudets-speech-in-dutch-parliament-about-the-agenda-behind-covid-19/
+- [Official Transcript] https://www.fvd.nl/volledige-speech-van-thierry-baudet-bij-de-algemene-politieke-beschouwingen-2021
