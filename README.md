@@ -15,6 +15,13 @@ References:
 - https://en.wikipedia.org/wiki/Myopericarditis
 
 
+#### Taiwan suspends 2nd dose Pfizer Covid vaccine for 12-17 ages amid myocarditis cases
+
+Taiwan’s health minister Chen Shih-chung has said that they are suspending administering second doses of the Pfizer-BioNTech (BNT) Covid vaccine to children in the 12-17 age group amid concerns that it may increase the risk of myocarditis.
+
+References: 
+- https://www.msn.com/en-in/news/world/taiwan-suspends-2nd-dose-pfizer-covid-vaccine-for-12-17-ages-amid-myocarditis-cases/ar-AAQD03t
+
 #### Death Rates for Vaccinated vs Unvaccinated
 
 On October 7, 2021, the death toll after vaccination in Taiwan reached 852, while the death toll after the COVID-19 was diagnosed was 844. The number of deaths after vaccination exceeded the number of confirmed deaths for the first time.
@@ -76,6 +83,14 @@ VAERS reports 17K+ Covid vaccine deaths, 83K+ hospitalizations, 92K urgent care 
 
 References:
 - https://openvaers.com/covid-data
+
+
+#### Study shows dramatic decline in effectiveness of all three COVID-19 vaccines over time
+
+As the Delta variant became the dominant strain of the coronavirus across the United States, all three COVID-19 vaccines available to Americans lost some of their protective power, with vaccine efficacy among a large group of veterans dropping between 35% and 85%, according to a new study.
+
+References:
+- https://www.latimes.com/science/story/2021-11-04/study-shows-dramatic-decline-in-effectiveness-of-covid-19-vaccines
 
 
 #### Meeting of the COVID-19 Giants with Geert Vanden Bossche and Robert Malone MD
