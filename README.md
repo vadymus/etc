@@ -128,3 +128,17 @@ References:
 - https://www.youtube.com/watch?v=iAxuvTzWJLY
 - [Translated Transcript] https://ordomedicus.org/thierry-baudets-speech-in-dutch-parliament-about-the-agenda-behind-covid-19/
 - [Official Transcript] https://www.fvd.nl/volledige-speech-van-thierry-baudet-bij-de-algemene-politieke-beschouwingen-2021
+
+
+### 19 States Sue Biden Administration over COVID Vaccine Rule
+
+Eighteen states filed three separate lawsuits Friday to stop President Joe Biden‘s COVID-19 vaccine mandate for federal contractors, arguing that the requirement violates federal law.
+
+Attorneys general from Alaska, Arkansas, Iowa, Missouri, Montana, Nebraska, New Hampshire, North Dakota, South Dakota and Wyoming signed on to one lawsuit, which was filed in a federal district court in Missouri. Another group of states including Georgia, Alabama, Idaho, Kansas, South Carolina, Utah and West Virginia filed a lawsuit in federal district court in Georgia.
+
+Texas also sued individually on Friday.
+
+![Biden Ice Cream](assets/biden-ice-cream.png)
+
+References:
+- https://fox8.com/news/coronavirus/10-states-sue-biden-administration-over-covid-vaccine-rule/
