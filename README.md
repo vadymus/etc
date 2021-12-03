@@ -177,5 +177,5 @@ Federal Judge Rejects DOD Claim That Pfizer EUA and Comirnaty Vaccines Are ‘In
 
 ![Not Interchangeable](assets/not-interchangeable.jpeg)
 
-References:
+References: 
 - [https://childrenshealthdefense.org/defender/judge-allen-winsor-pfizer-eua-comirnaty-vaccines-interchangeable/](https://childrenshealthdefense.org/defender/judge-allen-winsor-pfizer-eua-comirnaty-vaccines-interchangeable/)
